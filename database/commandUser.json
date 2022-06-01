@@ -1,0 +1,31 @@
+[
+  {
+    "jid": "6285746073507@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#donate",
+        "count": 1
+      },
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#anonymous",
+        "count": 1
+      },
+      {
+        "nama": "#start",
+        "count": 2
+      },
+      {
+        "nama": "#stop",
+        "count": 2
+      }
+    ]
+  }
+]
